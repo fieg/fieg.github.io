@@ -11,7 +11,7 @@ description:         ''
 url:                 http://fieg.nl
 baseurl:             ''
 gems:                [jekyll-paginate]
-paginate:            5
+paginate:            15
 paginate_path:       "page:num"
 
 # About/contact

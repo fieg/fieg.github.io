@@ -3,7 +3,7 @@ layout: post
 title: Installing Xdebug on Mac OSX
 ---
 
-This article is part 1 of the serie [Debug PHP with Xdebug and Eclipse on Mac OSX.]({% post_url 2014-05-03-debug-php-with-xdebug-and-eclipse-on-mac-osx %})
+This article is part 1 of the serie [Debug PHP with Xdebug and Eclipse on Mac OSX.]({% post_url 2014-05-03-debugging-php-with-eclipse-and-xdebug %})
 
 
 Before we begin you will need the following requirements:
@@ -84,4 +84,4 @@ Zend Engine v2.3.0, Copyright (c) 1998-2010 Zend Technologies
     with Xdebug v2.1.0, Copyright (c) 2002-2010, by Derick Rethans
 ```
 
-Continue reading how to [Setup Xdebug for Eclipse.](setting-up-xdebug-for-eclipse.md)
+Continue reading how to [Setup Xdebug for Eclipse.]({% post_url 2014-07-03-setting-up-xdebug-for-eclipse %})
