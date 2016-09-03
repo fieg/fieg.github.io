@@ -3,7 +3,7 @@ layout: post
 title: Setting up Xdebug for Eclipse
 ---
 
-This article is part 2 of the serie [Debug PHP with Xdebug and Eclipse on Mac OSX]({% post_url 2014-05-03-debugging-php-with-eclipse-and-xdebug %}). In [part 1]({% post_url 2014-06-03-installing-xdebug-on-mac-osx %}) we covered how you can install Xdebug on Mac OSX.
+This article is part 2 of the serie [Debug PHP with Xdebug and Eclipse on Mac OSX]({% post_url 2014-05-02-debug-php-with-xdebug-and-eclipse-on-mac-osx %}). In [part 1]({% post_url 2014-06-03-installing-xdebug-on-mac-osx %}) we covered how you can install Xdebug on Mac OSX.
 
 Before we begin you will need a fully functional Eclipse PDT installation. If you don’t have it yet you can [download the PDT all-in-one package](http://www.eclipse.org/pdt/downloads/). After downloading you can extract the contents to a location of your liking. For example in /Applications/eclipse.
 
