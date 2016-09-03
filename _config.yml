@@ -8,7 +8,7 @@ permalink:           :title
 title:               Fieg
 tagline:             ''
 description:         ''
-url:                 http://fieg.nl
+url:                 http://www.fieg.nl
 baseurl:             ''
 gems:
   - jekyll-paginate
