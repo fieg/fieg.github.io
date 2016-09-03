@@ -10,7 +10,10 @@ tagline:             ''
 description:         ''
 url:                 http://fieg.nl
 baseurl:             ''
-gems:                [jekyll-paginate]
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-redirect-from
 paginate:            15
 paginate_path:       "page:num"
 
