@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Setting up Xdebug for Eclipse
+tags: xdebug
 ---
 
 This article is part 2 of the serie [Debug PHP with Xdebug and Eclipse on Mac OSX]({% post_url 2014-05-02-debug-php-with-xdebug-and-eclipse-on-mac-osx %}). In [part 1]({% post_url 2014-06-03-installing-xdebug-on-mac-osx %}) we covered how you can install Xdebug on Mac OSX.

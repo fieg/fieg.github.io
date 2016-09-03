@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Debug PHP with Xdebug and Eclipse on Mac OSX
+tags: xdebug
 ---
 
 Setting up debugging for PHP can be quite a pain in the ass. In this serie I will explain how you can setup Xdebug on Mac OSX and how to use it with Eclipse PDT.
